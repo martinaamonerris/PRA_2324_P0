@@ -13,7 +13,7 @@ public:
     double getx();
     double gety();
     double getz();
-    bool haysujecion();
+    bool haysujetobj();
     void coger();
     void soltar();
     void mover(double xx, double yy, double zz);
